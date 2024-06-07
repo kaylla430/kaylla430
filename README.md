@@ -1,4 +1,15 @@
-## Hi there 👋
+## Olá, seja bem-vindo 👋
+ meu nome é kaylla
+
+ tenho 18 anos 
+ 
+ estudante da escola dr teofilo de andrade
+ 
+ estou estudando no alura
+
+ e cursando o 3º ANO 
+ 
+ criei este perfil de acordo com a aula perfil do usuario
 
 <!--
 **kaylla430/kaylla430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
